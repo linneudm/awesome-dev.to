@@ -1,6 +1,11 @@
 {
 	"series":[
 		{
+			"Series-Title": "Python Chat Tutorial with Django and React",
+			"link": "https://dev.to/nickparsons/tutorial-chat-with-python-django-and-react-1cpk",
+			"author": "Nick Parsons"
+		},
+		{
 			"Series-Title" : "Moving Past Tutorials: a course on problem solving for programmers ",
 			"link" : "https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4",
 			"author" : "Ali Spittel"
